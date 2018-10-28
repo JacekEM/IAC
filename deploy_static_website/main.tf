@@ -1,13 +1,4 @@
 
-
-/*
-variable "stack_name" {
-  type    = "string"
-  default = "jacek-placek" 
-}
-
-*/
-
 provider "aws" {
   region = "${var.aws_region}" 
 }
