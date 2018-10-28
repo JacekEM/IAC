@@ -1,2 +1,2 @@
 # IAC
-My personal infrastructure as a code. Different tools.
+My personal repo to maintain infrastructure in code. 
