@@ -1,8 +1,8 @@
 # static web on aws
 
 
-Terraform code which deploys infrastructure to supports
-static website hosting on aws s3, as well as deployment.
+Terraform code which deploys infrastructure to support
+static website hosted on aws s3, as well as deployment.
 
 Code is pulled from github repo and once build is trigged it
 gets synced with s3 bucket. 
@@ -23,7 +23,7 @@ Terraform will create the following resources:
 
 **Variables**
 
-__stored in variables.tf file__
+_stored in variables.tf file_
 
 
 **Other req**
